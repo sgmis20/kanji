@@ -6,4 +6,8 @@ https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclo
 
 설치 후 확장 프로그램 관리에 들어가서 -> 파일 URL에 대한 액세스 허용 체크!
 
-2020-06-08 ~
+2020-06-08 github로 버전관리 시작
+
+한국어 뜻은 html 소스코드 안에 주석처리 되어있습니다.
+아직 요미가나, 한국어 뜻을 보여주는 기능은 구현되어 있지 않습니다.
+기능 추가되는대로 배포하도록 해보갔으
